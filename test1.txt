@@ -4,3 +4,4 @@ add func1
 add func2
 code conflick
 code conflick2
+code conflick4
