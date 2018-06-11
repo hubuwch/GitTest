@@ -271,7 +271,7 @@ public class ActivityServiceImpl extends BaseServiceImpl<Activity> implements Ac
     public List<Activity> oneKeyExportActivity(Condition condition) {
         return activityMapper.oneKeyExportActivity(condition);
     }
-    add func3
+
     @Override
     public void updateNewsActivityNew(Activity activity, Boolean flag, Integer menuId) throws Exception {
         activity = activityMapper.findByID(activity.getId());
