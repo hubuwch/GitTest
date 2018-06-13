@@ -6,3 +6,4 @@ code conclick1
 code conclick2
 new add func1
 new add func2
+weichao
