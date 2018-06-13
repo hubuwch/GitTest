@@ -5,3 +5,4 @@ add func2
 code conclick1
 code conclick2
 new add func2
+add test1
